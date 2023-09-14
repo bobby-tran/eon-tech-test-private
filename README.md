@@ -18,13 +18,11 @@ _Writing test cases for your functions will give you bonus points_
 
 - [Project Description](#project-description)
 - [Questions - ways of working](#questions---ways-of-working)
-- [Questions - Technical](#questions---technical)
-
-# SMS App Project
+- [Technical exercise](#technical-exercise)
 
 ## Project Description
 
-You have been tasked with helping to build features for an application for sending SMS messages to E.On Next customers. Messages are sent as part of campaigns which target a specific purpose, e.g. product promotion, surveys, payment reminders.<br>
+We would like you to create an app to collect customer's meter readings. Please extend the scope of this task as much as you like.<br>
 
 ## Questions - Ways of working
 
@@ -37,7 +35,7 @@ You have taken the lead on this project which currently has the highest priority
 You have a preliminary meeting to discuss some of the features for an existing frontend application, one of the senior members of the team suggests a solution that you strongly believe will not work. What, if any, actions would you take?<br>
 <br>
 
-## Questions - Technical
+## Technical Exercise
 
 # Meter Readings
 
