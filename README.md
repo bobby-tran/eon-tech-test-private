@@ -19,7 +19,7 @@ _Writing test cases for your functions will give you bonus points_
 - [Project Description](#project-description)
 - [Questions - ways of working](#questions---ways-of-working)
 - [Technical exercise](#technical-exercise)
-
+  
 ## Project Description
 
 We would like you to create an app to collect customer's meter readings. Please extend the scope of this task as much as you like.<br>
