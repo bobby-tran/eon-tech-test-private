@@ -6,7 +6,7 @@
 
 _Hi, and congratulations to have made it to this stage! You will have one week after receiving access to this repo to finish our e.on next tech test and send over your answers. Good luck!_
 
-_Please clone this repository with your own gitlab account and add all your answers to your cloned repository. Your repository has to be set to private and shared with us as soon as you are finished and before the deadline._
+_Please clone this repository with your own github account and add all your answers to your cloned repository. Your repository has to be set to private and shared with us as soon as you are finished and before the deadline._
 
 _The folder structure of your repository is entirely up to you, you can also follow any naming convention you prefer.
 
