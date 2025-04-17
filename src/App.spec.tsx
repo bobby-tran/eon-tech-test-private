@@ -17,13 +17,11 @@ describe("App", () => {
     expect(screen.queryByTestId('predicted-usage')).toBeNull();
     expect(screen.getByTestId('list-250').textContent).toEqual('00250 - customer');
 
-
     await user.clear(screen.getByTestId('meter-input'));
     await user.type(screen.getByTestId('meter-input'), '00350');
     await user.click(screen.getByTestId('submit-button'));
     expect(screen.queryByTestId('predicted-usage')).toBeNull();
     expect(screen.getByTestId('list-350').textContent).toEqual('00350 - customer');
-
 
     await user.clear(screen.getByTestId('meter-input'));
     await user.type(screen.getByTestId('meter-input'), '00400');
