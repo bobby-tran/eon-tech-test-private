@@ -4,3 +4,8 @@ export interface MeterReading {
   value: number;
   source: MeterReadingSource;
 }
+
+export interface InitialState {
+  error: boolean;
+  readings: MeterReading[];
+}
